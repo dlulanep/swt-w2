@@ -1,0 +1,22 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Meeting Notes",
+      "content": "Discuss project milestones and deadlines.",
+      "createdAt": "2024-06-24T09:00:00Z",
+      "updatedAt": "2024-06-24T09:00:00Z"
+    },
+    {
+      "id": 2,
+      "title": "Shopping List",
+      "content": "Milk, Bread, Eggs, Coffee",
+      "createdAt": "2024-06-24T10:00:00Z",
+      "updatedAt": "2024-06-24T10:00:00Z"
+    },
+    {
+      "id": 3,
+      "title": "Ideas",
+      "content": "Build a note-taking app with search and tags.",
+      "createdAt": "2024-06-24T11:00:00Z",
+      "updatedAt": "2024-06-24T11:00:00Z"
